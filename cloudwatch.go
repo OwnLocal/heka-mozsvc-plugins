@@ -15,7 +15,7 @@
 package heka_mozsvc_plugins
 
 import (
-	"code.google.com/p/go-uuid/uuid"
+	"github.com/pborman/uuid"
 	"encoding/json"
 	"errors"
 	"fmt"
